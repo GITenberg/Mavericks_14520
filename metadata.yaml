@@ -1,0 +1,34 @@
+_repo: Mavericks_14520
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rowe, Clarence H. (Clarence Herbert)
+    birthdate: 1878
+    deathdate: 1930
+    gutenberg_agent_id: '8113'
+    url: http://www.gutenberg.org/2009/agents/8113
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Raine, William MacLeod
+    birthdate: 1871
+    deathdate: 1954
+    gutenberg_agent_id: '713'
+    url: http://www.gutenberg.org/2009/agents/713
+    wikipedia: http://en.wikipedia.org/wiki/William_MacLeod_Raine
+description: Cover -- Table of Contents.
+gutenberg_issued: '2004-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14520'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcc 'PS'
+title: Mavericks
+url: http://www.gutenberg.org/ebooks/14520
